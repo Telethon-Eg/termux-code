@@ -15,7 +15,7 @@ If you don't trust this bot,
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-By @StarkBots
+By @FLASH_MASR
     """
 
     # Home Button
@@ -31,12 +31,12 @@ By @StarkBots
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("‹ بدء استخراج جلسة ›", callback_data="generate")],
-        [InlineKeyboardButton(". ErOs .", url="https://t.me/abb_b")],
+        [InlineKeyboardButton("⌯ 𝒗 𝒊 𝒓 𝒖 𝒔 𖤐🇳🇱!", url="https://t.me/FLASH_MASR")],
         [
             InlineKeyboardButton("‹ طريقة الاستخدام ›", callback_data="help"),
             InlineKeyboardButton("‹ حول البوت ›", callback_data="about")
         ],
-        [InlineKeyboardButton(". ErOs .", url="https://t.me/abb_b")],
+        [InlineKeyboardButton("⌯ 𝒗 𝒊 𝒓 𝒖 𝒔 𖤐🇳🇱!", url="https://t.me/FLASH_MASR")],
     ]
 
     # Help Message
@@ -57,7 +57,7 @@ By @StarkBots
 
 - بوت يقوم باستخراج جلسة تيليثون (كود تيرمكس) و جلسة بايروقرام .
 
-[ErOs](https://t.me/abb_b)
+[⌯ 𝒗 𝒊 𝒓 𝒖 𝒔 𖤐🇳🇱!](https://t.me/FLASH_MASR)
 
 
     """
